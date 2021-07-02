@@ -46,7 +46,7 @@ Admin will create a voting instance by launching/deploying the system in a block
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
+   git clone https://github.com/hariom2207/Dvoting.git
    cd dVoting
    ```
 
